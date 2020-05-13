@@ -1,3 +1,3 @@
-# hello-world
-first git hub repo
+# hello-world Rohit
+first repo
 This is me training the git hub
